@@ -106,5 +106,4 @@ eks-platform/
 ---
 
 ## 📬 Contact
-
-Feel free to reach out for collaboration or feedback.
+🔗 LinkedIn : www.linkedin.com/in/rafat-devops
