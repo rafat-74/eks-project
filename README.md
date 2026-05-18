@@ -7,6 +7,8 @@
 <p align="center">
 Production-Grade Kubernetes Platform on AWS with CI/CD, Monitoring, Automation & Scalability
 </p>
+---
+
 ## 📌 Overview
 
 This project demonstrates building a complete end-to-end DevOps platform on AWS using modern cloud-native tools. It simulates a real production environment with automation, scalability, and monitoring.
